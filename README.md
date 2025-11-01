@@ -99,6 +99,8 @@ Visit 👉 http://localhost:5173/
  to access the app locally.
 🖼️ Screenshots
 🏠 Home Page
+**Home Page:**  
+![Home](screenshots/homepage.png)
 🧭 Dashboard
 🆘 Submit Help Request
 📊 Active Requests
