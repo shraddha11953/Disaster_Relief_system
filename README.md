@@ -65,6 +65,12 @@ to access the app locally.
 🧭  **profile:**  
 ![profile_page](screenshots/profile_page.png)
 
+**Register:**  
+![Register](screenshots/register.png)
+
+**Login Page:**  
+![Login](screenshots/login.png)
+
 
 
 ## 📂 Project Structure  
@@ -91,27 +97,6 @@ Disaster_Management_Portal/
 
 ---
 
-## ⚡ Installation & Setup  
-
-### 🔹 Clone the Repository  
-```bash
-git clone https://github.com/shraddha11953/<repo-name>.git
-cd Disaster_Management_Portal
-🔹 Backend Setup
-cd backend
-python -m venv venv
-venv\Scripts\activate  # For Windows
-# source venv/bin/activate  # For Mac/Linux
-pip install -r requirements.txt
-python manage.py runserver
-
-🔹 Frontend Setup
-cd ../frontend
-npm install
-npm run dev
-
-
-Visit 👉 http://localhost:5173/
  
 
 🚀 Future Enhancements
@@ -150,3 +135,25 @@ This project is licensed under the MIT License – free to use and modify.
 <div align="center">
 
 ⭐ If you like this project, don’t forget to star it on GitHub! ⭐
+
+## ⚡ Installation & Setup  
+
+### 🔹 Clone the Repository  
+```bash
+git clone https://github.com/shraddha11953/<repo-name>.git
+cd Disaster_Management_Portal
+🔹 Backend Setup
+cd backend
+python -m venv venv
+venv\Scripts\activate  # For Windows
+# source venv/bin/activate  # For Mac/Linux
+pip install -r requirements.txt
+python manage.py runserver
+
+🔹 Frontend Setup
+cd ../frontend
+npm install
+npm run dev
+
+
+Visit 👉 http://localhost:5173/
