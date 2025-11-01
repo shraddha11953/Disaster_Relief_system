@@ -62,7 +62,7 @@ To access the app locally.
 ![Home](screenshots/disaster_requests.png)
 
 🆘**Help_Request:**  
-![Help_request](screenshots/Help_request.png)
+![Help_request](screenshots/help_request.png)
 
 🧭  **profile:**  
 ![profile_page](screenshots/profile_page.png)
