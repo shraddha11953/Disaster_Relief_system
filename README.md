@@ -51,7 +51,7 @@ It bridges the gap between those in **need of help** and those **ready to provid
 
 ---
 
-to access the app locally.
+To access the app locally.
 ## 🖼️ Screenshots
 🏠 **Home Page:**  
 ![Home](screenshots/homepage.png)
