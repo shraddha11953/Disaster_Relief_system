@@ -56,11 +56,13 @@ To access the app locally.
 🏠 **Home Page:**  
 ![Home](screenshots/homepage.png)
 
-🆘**Help_Request:**  
-![Help_request](screenshots/help_request.png)
+
 
 📊 **active_disaster_requests:**  
 ![Home](screenshots/disaster_requests.png)
+
+🆘**Help_Request:**  
+![Help_request](screenshots/Help_request.png)
 
 🧭  **profile:**  
 ![profile_page](screenshots/profile_page.png)
