@@ -52,13 +52,20 @@ It bridges the gap between those in **need of help** and those **ready to provid
 ---
 
 to access the app locally.
-🖼️ Screenshots
-🏠 Home Page
-**Home Page:**  
+## 🖼️ Screenshots
+🏠 **Home Page:**  
 ![Home](screenshots/homepage.png)
-🧭 Dashboard
-🆘 Submit Help Request
-📊 Active Requests
+
+🆘**Help_Request:**  
+![Help_request](screenshots/help_request.png)
+
+📊 **active_disaster_requests:**  
+![Home](screenshots/disaster_requests.png)
+
+🧭  **profile:**  
+![profile_page](screenshots/profile_page.png)
+
+
 
 ## 📂 Project Structure  
 Disaster_Management_Portal/
