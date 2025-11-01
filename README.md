@@ -57,12 +57,11 @@ To access the app locally.
 ![Home](screenshots/homepage.png)
 
 
-
 📊 **active_disaster_requests:**  
-![Home](screenshots/disaster_requests.png)
+![active_disater](screenshots/disaster_requests.png)
 
 🆘**Help_Request:**  
-![Help_request](screenshots/help_request.png)
+![Help_request](screenshots/submit_request.png)
 
 🧭  **profile:**  
 ![profile_page](screenshots/profile_page.png)
