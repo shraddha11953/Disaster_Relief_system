@@ -51,6 +51,15 @@ It bridges the gap between those in **need of help** and those **ready to provid
 
 ---
 
+to access the app locally.
+🖼️ Screenshots
+🏠 Home Page
+**Home Page:**  
+![Home](screenshots/homepage.png)
+🧭 Dashboard
+🆘 Submit Help Request
+📊 Active Requests
+
 ## 📂 Project Structure  
 Disaster_Management_Portal/
 │
@@ -96,14 +105,7 @@ npm run dev
 
 
 Visit 👉 http://localhost:5173/
- to access the app locally.
-🖼️ Screenshots
-🏠 Home Page
-**Home Page:**  
-![Home](screenshots/homepage.png)
-🧭 Dashboard
-🆘 Submit Help Request
-📊 Active Requests
+ 
 
 🚀 Future Enhancements
 
