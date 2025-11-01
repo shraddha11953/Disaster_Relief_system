@@ -10,7 +10,7 @@
 
 [![Made with Django](https://img.shields.io/badge/Made%20with-Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-20232A?style=for-the-badge&logo=react)](https://react.dev/)
-[![Deployed on GitHub](https://img.shields.io/badge/Deployed%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/<your-username>/<repo-name>)
+[![Deployed on GitHub](https://img.shields.io/badge/Deployed%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shraddha11953/Disaster_Relief_system)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ---
